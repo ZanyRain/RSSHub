@@ -2002,8 +2002,8 @@ type 列表：
 <Route author="ZanyRain" example="/sjzc/www/xxxw" path="/sjzc/www/:type?" :paramsDesc="['默认为通知公告']" >
 
 | 学校新闻 | 通知公告 | 学术交流 |
-| ------ | ------ | ------ |
-| xxxw   | tzgg   | xsjl   |
+| ---- | ---- | ---- |
+| xxxw | tzgg | xsjl |
 
 </Route>
 
@@ -2012,8 +2012,8 @@ type 列表：
 <Route author="ZanyRain" example="/sjzc/jwc/jwdt" path="/sjzc/jwc/:type?" :paramsDesc="['默认为通知公告']" >
 
 | 教务动态 | 通知公告 |
-| ------ | ------ |
-| jwdt   | tzgg   |
+| ---- | ---- |
+| jwdt | tzgg |
 
 </Route>
 
@@ -2022,8 +2022,8 @@ type 列表：
 <Route author="ZanyRain" example="/sjzc/lib/syzy" path="/sjzc/lib/:type?" :paramsDesc="['默认为通知公告']" >
 
 | 新闻动态 | 通知公告 | 试用资源 |
-| ------ | ------ | ------ |
-| xwdt   | tzgg   | syzy   |
+| ---- | ---- | ---- |
+| xwdt | tzgg | syzy |
 
 </Route>
 
@@ -2032,8 +2032,8 @@ type 列表：
 <Route author="ZanyRain" example="/sjzc/xxzx/tzgg" path="/sjzc/xxzx/:type?" :paramsDesc="['默认为通知公告']" >
 
 | 通知公告 |
-| ------ |
-| tzgg   |
+| ---- |
+| tzgg |
 
 </Route>
 
